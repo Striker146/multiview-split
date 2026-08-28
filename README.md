@@ -39,6 +39,6 @@ Open up a terminal and run the command
 ```cmd
 multiviewsplit --mlt_path "PATH/TO/YOUR/SHOTCUT/MLT/FILE"
 ```
-When processing, you will be asked to specify the video clip name, where you may set the output name to be `cam01`
+When processing, you will be asked to specify the video clip name, where you set the videos desired name.
 After running it will begin generating divided up clips into a file called `output`, within will be the folders of each marker with each clip from the respective video
 <img width="705" height="448" alt="image" src="https://github.com/user-attachments/assets/9104f2c3-056b-4bfd-b175-77bcf26b0fec" />
