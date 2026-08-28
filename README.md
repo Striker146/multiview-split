@@ -46,7 +46,8 @@ Once you've placed all of the markers you'd like to extract as trials, save the 
 <img width="1913" height="558" alt="image" src="https://github.com/user-attachments/assets/e0da3450-c33b-48fd-85bf-8fc8741ffc6a" />
 ### Using Multiview-split
 Open up a terminal and run the command
-```cmd
+```
+cd path/to/multiview-split
 multiviewsplit --mlt_path "PATH/TO/YOUR/SHOTCUT/MLT/FILE"
 ```
 When processing, you will be asked to specify the video clip name, where you set the videos desired name.
