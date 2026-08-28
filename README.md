@@ -6,7 +6,9 @@ It uses shotcut to define the multi-view timeline, and the markers included to d
 [Python](https://www.python.org/) (add to path during installation)
 
 [Shotcut](https://www.shotcut.org/download/)
-## Setup - Windows
+## Setup
+Clone Repo from command terminal or bash `git clone https://github.com/Striker146/multiview-split.git`
+### Windows
 The tool uses `melt.exe` (packaged within shotcut) and a shotcut project file `.mlt`.
 Firstly add shotcut's directory to path:
 
@@ -19,11 +21,19 @@ Firstly add shotcut's directory to path:
 4.) Select new and paste the folder location of Shotcut (default is `C:\Program Files\Shotcut`)
 <img width="519" height="490" alt="image" src="https://github.com/user-attachments/assets/95bbf99d-5135-430e-bb53-517faa3b21c9" />
 
-5.) Clone this repo and add to path (using instructions above) or use as is!
-### Setup - Linux
+
+
+#### Linux
 1.) Install Shotcut using your desired method
 
-2.) Clone this repo and add to path (using instructions above) or use as is!
+2.) from terminal run 
+```
+cd multiview-split
+chmod +x multiview.sh
+```
+
+
+
 
 
 
